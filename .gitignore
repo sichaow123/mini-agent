@@ -1,3 +1,8 @@
+# For this project
+.memory/
+.task_outputs/
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

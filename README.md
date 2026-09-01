@@ -1,2 +1,2 @@
 # mini-agent
-harness for personal assistant
+A Personal Coding Assistant Harness
